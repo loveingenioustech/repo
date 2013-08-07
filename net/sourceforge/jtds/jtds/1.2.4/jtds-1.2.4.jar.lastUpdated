@@ -1,0 +1,13 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Apr 15 08:25:19 CST 2013
+https\://maven.alfresco.com/nexus/content/repositories/activiti-thirdparty/.error=
+https\://maven.alfresco.com/nexus/content/repositories/activiti/.error=
+http\://maven.vaadin.com/vaadin-addons/.error=
+https\://maven.alfresco.com/nexus/content/repositories/activiti/.lastUpdated=1365985505471
+http\://repo.maven.apache.org/maven2/.lastUpdated=1365985519065
+http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1365985507769
+http\://maven.vaadin.com/vaadin-addons/.lastUpdated=1365985509855
+http\://maven.restlet.org/.error=
+http\://maven.restlet.org/.lastUpdated=1365985508601
+https\://maven.alfresco.com/nexus/content/repositories/activiti-thirdparty/.lastUpdated=1365985506934
+http\://repository.jboss.org/nexus/content/groups/public/.error=

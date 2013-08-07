@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Apr 15 08:25:48 CST 2013
+mysql-connector-java-5.1.21.jar>=
+mysql-connector-java-5.1.21.jar>central=
+mysql-connector-java-5.1.21.pom>central=

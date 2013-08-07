@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Jul 12 12:02:54 CST 2013
+hibernate-core-4.0.0.Final.jar>=
+hibernate-core-4.0.0.Final.jar>central=
+hibernate-core-4.0.0.Final-sources.jar>central=
+hibernate-core-4.0.0.Final.pom>central=

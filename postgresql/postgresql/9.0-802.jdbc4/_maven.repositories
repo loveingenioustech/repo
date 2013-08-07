@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Apr 15 08:25:48 CST 2013
+postgresql-9.0-802.jdbc4.jar>=
+postgresql-9.0-802.jdbc4.pom>activiti-third-party=
+postgresql-9.0-802.jdbc4.jar>activiti-third-party=

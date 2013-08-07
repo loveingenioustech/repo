@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Apr 02 16:33:18 CST 2013
+drools-decisiontables-5.3.0.Final.jar>=
+drools-decisiontables-5.3.0.Final.pom>central=
+drools-decisiontables-5.3.0.Final.jar>jboss-public-repository-group=
+drools-decisiontables-5.3.0.Final.pom>jboss-public-repository-group=

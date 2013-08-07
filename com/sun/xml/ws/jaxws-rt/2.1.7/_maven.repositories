@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Apr 02 17:24:41 CST 2013
+jaxws-rt-2.1.7.jar>jboss-public-repository-group=
+jaxws-rt-2.1.7.pom>jboss-public-repository-group=
+jaxws-rt-2.1.7.jar>=
+jaxws-rt-2.1.7.pom>central=

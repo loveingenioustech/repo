@@ -1,0 +1,25 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Apr 02 17:45:37 CST 2013
+http\://dist.codehaus.org/mule/dependencies/maven2/.lastUpdated=1364895937063
+http\://repository.codehaus.org/.error=
+http\://maven.restlet.org/.error=
+https\://maven.alfresco.com/nexus/content/repositories/activiti-thirdparty/.error=
+http\://repository.codehaus.org/.lastUpdated=1364895927477
+http\://repo.maven.apache.org/maven2/.lastUpdated=1364895928688
+http\://download.java.net/maven/2/.lastUpdated=1364895935222
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
+http\://repo.maven.apache.org/maven2/.error=
+http\://maven.restlet.org/.lastUpdated=1364895934011
+http\://download.java.net/maven/2/.error=
+http\://maven.vaadin.com/vaadin-addons/.error=
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1364895926837
+http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1364895935845
+http\://maven.vaadin.com/vaadin-addons/.lastUpdated=1364895934666
+http\://repository.jboss.org/nexus/content/groups/public/.error=
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+http\://repository.muleforge.org/release/.error=
+http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1364895933373
+https\://maven.alfresco.com/nexus/content/repositories/activiti-thirdparty/.lastUpdated=1364895932595
+http\://repository.muleforge.org/release/.lastUpdated=1364895928092
+https\://maven.alfresco.com/nexus/content/repositories/activiti/.lastUpdated=1364895930659
+https\://maven.alfresco.com/nexus/content/repositories/activiti/.error=

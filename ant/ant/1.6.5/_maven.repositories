@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Jul 12 12:02:54 CST 2013
+ant-1.6.5.jar>=
+ant-1.6.5.jar>central=
+ant-1.6.5-sources.jar>central=
+ant-1.6.5.pom>central=

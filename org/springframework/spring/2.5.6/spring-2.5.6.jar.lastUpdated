@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Jul 08 16:49:03 CST 2013
+http\://repo.maven.apache.org/maven2/.lastUpdated=1373273343014
+legacy-http\://download.java.net/maven/2/.lastUpdated=1373273339592
+http\://download.java.net/maven/2/.error=Could not transfer artifact org.springframework\:spring\:jar\:2.5.6 from/to java.net (http\://download.java.net/maven/2)\: No connector available to access repository java.net (http\://download.java.net/maven/2) of type legacy using the available factories WagonRepositoryConnectorFactory

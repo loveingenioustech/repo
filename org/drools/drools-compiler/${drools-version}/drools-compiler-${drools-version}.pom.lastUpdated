@@ -1,0 +1,8 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Apr 03 18:58:53 CST 2013
+http\://maven.itextpdf.com/.error=Could not transfer artifact org.drools\:drools-compiler\:pom\:${drools-version} from/to itextpdf.com (http\://maven.itextpdf.com/)\: IllegalArgumentException
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1364986733650
+http\://maven.alfresco.com/nexus/content/repositories/activiti/.error=Could not transfer artifact org.drools\:drools-compiler\:pom\:${drools-version} from/to Activiti (http\://maven.alfresco.com/nexus/content/repositories/activiti)\: IllegalArgumentException
+default-http\://maven.alfresco.com/nexus/content/repositories/activiti/.lastUpdated=1364986733638
+default-http\://maven.itextpdf.com/.lastUpdated=1364986733642
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.drools\:drools-compiler\:pom\:${drools-version} from/to central (http\://repo.maven.apache.org/maven2)\: IllegalArgumentException

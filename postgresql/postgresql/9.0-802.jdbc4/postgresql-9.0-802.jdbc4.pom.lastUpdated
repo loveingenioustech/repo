@@ -1,0 +1,17 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Apr 15 13:10:34 CST 2013
+https\://maven.alfresco.com/nexus/content/repositories/activiti/.error=
+https\://maven.alfresco.com/nexus/content/repositories/activiti/.lastUpdated=1365985105653
+http\://maven.vaadin.com/vaadin-addons/.error=Could not transfer artifact postgresql\:postgresql\:pom\:9.0-802.jdbc4 from/to vaadin-addons (http\://maven.vaadin.com/vaadin-addons)\: Network is unreachable\: connect
+http\://maven.alfresco.com/nexus/content/repositories/activiti/.error=Could not transfer artifact postgresql\:postgresql\:pom\:9.0-802.jdbc4 from/to Activiti (http\://maven.alfresco.com/nexus/content/repositories/activiti)\: java.net.ConnectException\: null to http\://maven.alfresco.com/nexus/content/repositories/activiti/postgresql/postgresql/9.0-802.jdbc4/postgresql-9.0-802.jdbc4.pom
+default-http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1365984988109
+default-http\://maven.alfresco.com/nexus/content/repositories/activiti/.lastUpdated=1366002629935
+default-http\://maven.restlet.org/.lastUpdated=1365984988123
+http\://maven.itextpdf.com/.lastUpdated=1366002634601
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1365984988149
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact postgresql\:postgresql\:pom\:9.0-802.jdbc4 from/to central (http\://repo.maven.apache.org/maven2)\: Network is unreachable\: connect
+http\://maven.itextpdf.com/.error=
+default-http\://maven.vaadin.com/vaadin-addons/.lastUpdated=1365984988136
+http\://maven.restlet.org/.error=Could not transfer artifact postgresql\:postgresql\:pom\:9.0-802.jdbc4 from/to maven-restlet (http\://maven.restlet.org)\: Network is unreachable\: connect
+https\://maven.alfresco.com/nexus/content/repositories/activiti-thirdparty/.lastUpdated=1365985109523
+http\://repository.jboss.org/nexus/content/groups/public/.error=Could not transfer artifact postgresql\:postgresql\:pom\:9.0-802.jdbc4 from/to jboss (http\://repository.jboss.org/nexus/content/groups/public)\: Network is unreachable\: connect

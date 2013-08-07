@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Jul 12 12:02:54 CST 2013
+slf4j-api-1.5.8.jar>=
+slf4j-api-1.5.8-sources.jar>central=
+slf4j-api-1.5.8.jar>central=
+slf4j-api-1.5.8.pom>central=

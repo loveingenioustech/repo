@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.maven.plugins</groupId>
+  <artifactId>maven-eclipse-plugin</artifactId>
+  <versioning>
+    <latest>2.10-SNAPSHOT</latest>
+    <versions>
+      <version>2.10-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130414081934</lastUpdated>
+  </versioning>
+</metadata>

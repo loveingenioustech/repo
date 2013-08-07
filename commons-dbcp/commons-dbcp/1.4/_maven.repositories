@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Jul 13 18:16:31 CST 2013
+commons-dbcp-1.4.jar>=
+commons-dbcp-1.4.pom>Activiti=
+commons-dbcp-1.4.jar>central=
+commons-dbcp-1.4.pom>central=

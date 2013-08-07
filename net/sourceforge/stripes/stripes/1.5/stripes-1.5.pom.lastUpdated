@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Jul 08 16:48:54 CST 2013
+http\://repo.maven.apache.org/maven2/.lastUpdated=1373273334794
+legacy-http\://download.java.net/maven/2/.lastUpdated=1373273333900
+http\://download.java.net/maven/2/.error=Could not transfer artifact net.sourceforge.stripes\:stripes\:pom\:1.5 from/to java.net (http\://download.java.net/maven/2)\: No connector available to access repository java.net (http\://download.java.net/maven/2) of type legacy using the available factories WagonRepositoryConnectorFactory

@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sun Mar 31 11:16:43 CST 2013
+javassist-3.12.0.GA.jar>jboss-public-repository-group=
+javassist-3.12.0.GA.jar>=
+javassist-3.12.0.GA.pom>jboss-public-repository-group=
