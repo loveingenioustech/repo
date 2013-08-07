@@ -1,4 +1,5 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Wed Jul 17 19:23:18 CST 2013
+#Wed Aug 07 17:16:13 CST 2013
 eclipselink-2.5.0.jar>central=
 eclipselink-2.5.0.pom>central=
+eclipselink-2.5.0-sources.jar>central=
