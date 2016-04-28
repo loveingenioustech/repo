@@ -1,6 +1,5 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Fri Sep 27 14:22:50 CST 2013
-http\://repo.maven.apache.org/maven2/.lastUpdated=1380262970152
-https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1364896025120
-http\://repository.codehaus.org/.lastUpdated=1364896026348
-https\://maven.alfresco.com/nexus/content/groups/public/.error=
+#Thu Dec 11 15:06:15 CST 2014
+http\://maven.restlet.org/.error=Could not transfer artifact org.mortbay.jetty\:jetty-parent\:pom\:7 from/to maven-restlet (http\://maven.restlet.org)\: Failed to transfer http\://maven.restlet.org/org/mortbay/jetty/jetty-parent/7/jetty-parent-7.pom. Error code 307, Temporary Redirect
+http\://repo1.maven.org/maven2/.lastUpdated=1418281575603
+default-http\://maven.restlet.org/.lastUpdated=1418281574073

@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Oct 28 08:55:59 CST 2015
+@default-Codehaus-http\://repository.codehaus.org/.lastUpdated=1445993757574
+@default-kafeitu-http\://maven.kafeitu.me/nexus/content/groups/public/.lastUpdated=1445993756367
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1445993757550
+https\://repo.maven.apache.org/maven2/.lastUpdated=1445993759265
+http\://maven.kafeitu.me/nexus/content/groups/public/.error=Could not transfer artifact org.infinispan\:infinispan-parent\:pom\:5.1.7.Final from/to kafeitu (http\://maven.kafeitu.me/nexus/content/groups/public)\: connect timed out
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+http\://repository.codehaus.org/.error=Could not transfer artifact org.infinispan\:infinispan-parent\:pom\:5.1.7.Final from/to Codehaus (http\://repository.codehaus.org)\: repository.codehaus.org

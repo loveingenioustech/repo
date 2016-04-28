@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Nov 19 14:05:51 CST 2015
+http\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact com.netflix.feign\:feign-core\:pom\:8.1.1 from/to spring-snapshots (http\://repo.spring.io/libs-snapshot-local)\: Failed to transfer http\://repo.spring.io/libs-snapshot-local/com/netflix/feign/feign-core/8.1.1/feign-core-8.1.1.pom. Error code 409, Conflict
+@default-spring-snapshots-http\://repo.spring.io/libs-snapshot-local/.lastUpdated=1447913150001
+https\://repo.spring.io/libs-snapshot/.lastUpdated=1447913151249

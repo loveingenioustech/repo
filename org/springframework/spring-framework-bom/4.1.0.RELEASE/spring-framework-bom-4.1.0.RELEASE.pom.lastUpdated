@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Dec 09 13:55:04 CST 2014
+default-http\://repo1.maven.org/maven2/.lastUpdated=1418104504838
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.springframework\:spring-framework-bom\:pom\:4.1.0.RELEASE from/to central (http\://repo1.maven.org/maven2)\: No response received after 60000

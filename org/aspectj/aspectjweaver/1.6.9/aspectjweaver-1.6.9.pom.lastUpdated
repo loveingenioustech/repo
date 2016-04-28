@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Oct 28 08:58:49 CST 2015
+@default-kafeitu-http\://maven.kafeitu.me/nexus/content/groups/public/.lastUpdated=1445993926684
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1445993929318
+http\://maven.kafeitu.me/nexus/content/groups/public/.error=Could not transfer artifact org.aspectj\:aspectjweaver\:pom\:1.6.9 from/to kafeitu (http\://maven.kafeitu.me/nexus/content/groups/public)\: connect timed out

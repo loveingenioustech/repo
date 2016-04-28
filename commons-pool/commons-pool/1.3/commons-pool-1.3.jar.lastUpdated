@@ -1,13 +1,5 @@
-#NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Mon Apr 15 08:23:54 CST 2013
-https\://maven.alfresco.com/nexus/content/repositories/activiti-thirdparty/.error=
-https\://maven.alfresco.com/nexus/content/repositories/activiti/.error=
-http\://maven.vaadin.com/vaadin-addons/.error=
-https\://maven.alfresco.com/nexus/content/repositories/activiti/.lastUpdated=1365985426721
-http\://repo.maven.apache.org/maven2/.lastUpdated=1365985434664
-http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1365985429024
-http\://maven.vaadin.com/vaadin-addons/.lastUpdated=1365985430478
-http\://maven.restlet.org/.error=
-http\://maven.restlet.org/.lastUpdated=1365985429848
-https\://maven.alfresco.com/nexus/content/repositories/activiti-thirdparty/.lastUpdated=1365985428190
-http\://repository.jboss.org/nexus/content/groups/public/.error=
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Feb 01 15:15:07 CST 2016
+http\://repo2.maven.org/maven2/.lastUpdated=1454310907134
+http\://download.java.net/maven/2/.lastUpdated=1454310883914
+http\://download.java.net/maven/2/.error=

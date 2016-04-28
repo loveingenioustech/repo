@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Nov 19 14:04:14 CST 2015
+http\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact org.springframework\:spring-expression\:pom\:4.1.3.RELEASE from/to spring-snapshots (http\://repo.spring.io/libs-snapshot-local)\: Failed to transfer http\://repo.spring.io/libs-snapshot-local/org/springframework/spring-expression/4.1.3.RELEASE/spring-expression-4.1.3.RELEASE.pom. Error code 409, Conflict
+@default-spring-snapshots-http\://repo.spring.io/libs-snapshot-local/.lastUpdated=1447913053829
+https\://repo.spring.io/libs-snapshot/.lastUpdated=1447913054657

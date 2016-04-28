@@ -1,13 +1,9 @@
-#NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Mon Apr 15 08:18:43 CST 2013
-https\://maven.alfresco.com/nexus/content/repositories/activiti-thirdparty/.error=
-https\://maven.alfresco.com/nexus/content/repositories/activiti/.error=
-https\://maven.alfresco.com/nexus/content/repositories/activiti/.lastUpdated=1365985118833
-http\://maven.vaadin.com/vaadin-addons/.error=Could not transfer artifact com.fasterxml.uuid\:java-uuid-generator\:pom\:3.1.3 from/to vaadin-addons (http\://maven.vaadin.com/vaadin-addons)\: Network is unreachable\: connect
-http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1365985123623
-default-http\://maven.restlet.org/.lastUpdated=1365984988360
-default-http\://repo.maven.apache.org/maven2/.lastUpdated=1365984988401
-http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.fasterxml.uuid\:java-uuid-generator\:pom\:3.1.3 from/to central (http\://repo.maven.apache.org/maven2)\: Network is unreachable\: connect
-http\://maven.restlet.org/.error=Could not transfer artifact com.fasterxml.uuid\:java-uuid-generator\:pom\:3.1.3 from/to maven-restlet (http\://maven.restlet.org)\: Network is unreachable\: connect
-default-http\://maven.vaadin.com/vaadin-addons/.lastUpdated=1365984988380
-https\://maven.alfresco.com/nexus/content/repositories/activiti-thirdparty/.lastUpdated=1365985121116
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Oct 28 09:01:55 CST 2015
+@default-Codehaus-http\://repository.codehaus.org/.lastUpdated=1445994115147
+@default-kafeitu-http\://maven.kafeitu.me/nexus/content/groups/public/.lastUpdated=1445994113833
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1445994115123
+https\://repo.maven.apache.org/maven2/.lastUpdated=1445994115553
+http\://maven.kafeitu.me/nexus/content/groups/public/.error=Could not transfer artifact com.fasterxml.uuid\:java-uuid-generator\:pom\:3.1.3 from/to kafeitu (http\://maven.kafeitu.me/nexus/content/groups/public)\: connect timed out
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+http\://repository.codehaus.org/.error=Could not transfer artifact com.fasterxml.uuid\:java-uuid-generator\:pom\:3.1.3 from/to Codehaus (http\://repository.codehaus.org)\: repository.codehaus.org

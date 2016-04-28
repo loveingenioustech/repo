@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Oct 28 08:56:11 CST 2015
+@default-Codehaus-http\://repository.codehaus.org/.lastUpdated=1445993770399
+@default-kafeitu-http\://maven.kafeitu.me/nexus/content/groups/public/.lastUpdated=1445993769280
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1445993770375
+https\://repo.maven.apache.org/maven2/.lastUpdated=1445993771030
+http\://maven.kafeitu.me/nexus/content/groups/public/.error=Could not transfer artifact org.jboss.arquillian\:arquillian-bom\:pom\:1.0.0.CR5 from/to kafeitu (http\://maven.kafeitu.me/nexus/content/groups/public)\: connect timed out
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+http\://repository.codehaus.org/.error=Could not transfer artifact org.jboss.arquillian\:arquillian-bom\:pom\:1.0.0.CR5 from/to Codehaus (http\://repository.codehaus.org)\: repository.codehaus.org

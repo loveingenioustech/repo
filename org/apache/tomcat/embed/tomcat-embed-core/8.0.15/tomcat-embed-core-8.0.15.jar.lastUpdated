@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Nov 19 14:23:27 CST 2015
+http\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact org.apache.tomcat.embed\:tomcat-embed-core\:jar\:8.0.15 from/to spring-snapshots (http\://repo.spring.io/libs-snapshot-local)\: Failed to transfer http\://repo.spring.io/libs-snapshot-local/org/apache/tomcat/embed/tomcat-embed-core/8.0.15/tomcat-embed-core-8.0.15.jar. Error code 409, Conflict
+@default-spring-snapshots-http\://repo.spring.io/libs-snapshot-local/.lastUpdated=1447913283794
+https\://repo.spring.io/libs-snapshot/.lastUpdated=1447914207837

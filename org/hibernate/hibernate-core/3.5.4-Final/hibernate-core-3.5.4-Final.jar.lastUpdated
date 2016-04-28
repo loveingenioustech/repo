@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Jan 20 15:44:19 CST 2015
+default-http\://repo1.maven.org/maven2/.lastUpdated=1421739859973
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.hibernate\:hibernate-core\:jar\:3.5.4-Final from/to central (http\://repo1.maven.org/maven2)\: No response received after 60000

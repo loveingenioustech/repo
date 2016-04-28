@@ -1,13 +1,4 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Sun Mar 31 11:14:02 CST 2013
-http\://extensions.springframework.org/milestone/.lastUpdated=1364699518445
-https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1364699505890
-http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
-http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1364699551154
-http\://repo.maven.apache.org/maven2/.lastUpdated=1364699642970
-https\://maven.alfresco.com/nexus/content/groups/public/.error=
-http\://extensions.springframework.org/milestone/.error=
-http\://maven.itextpdf.com/.lastUpdated=1364699571995
-http\://maven.itextpdf.com/.error=
-http\://maven.restlet.org/.error=
-http\://maven.restlet.org/.lastUpdated=1364699532009
+#Fri Jan 09 18:20:22 CST 2015
+default-http\://repo1.maven.org/maven2/.lastUpdated=1420798822521
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact commons-lang\:commons-lang\:jar\:2.4 from/to central (http\://repo1.maven.org/maven2)\: No response received after 60000

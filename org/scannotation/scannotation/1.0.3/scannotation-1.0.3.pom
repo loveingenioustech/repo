@@ -6,7 +6,30 @@
     <packaging>jar</packaging>
     <version>1.0.3</version>
     <name>scannotation</name>
-    <url>http://maven.apache.org</url>
+    <description>
+        Scannotation is a Java library that creates an annotation database from a set of .class files
+    </description>
+    <url>http://scannotation.sf.net</url>
+    <licenses>
+        <license>
+            <name>Apache License V2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+    </licenses>
+    <scm>
+        <url>
+            https://sourceforge.net/p/scannotation/code/HEAD/tree/
+        </url>
+        <connection>
+            scm:svn:https://scannotation.svn.sourceforge.net/svnroot/scannotation/scannotation/
+        </connection>
+    </scm>
+    <developers>
+        <developer>
+            <name>Bill Burke</name>
+            <url>http://bill.burkecentral.com/</url>
+        </developer>
+    </developers>
 
     <distributionManagement>
         <repository>
@@ -16,12 +39,6 @@
         </repository>
     </distributionManagement>
 
-    <repositories>
-        <repository>
-            <id>jboss</id>
-            <url>http://repository.jboss.org/nexus/content/groups/public/</url>
-        </repository>
-    </repositories>
     <dependencies>
         <dependency>
             <groupId>junit</groupId>

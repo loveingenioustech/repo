@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Dec 02 14:38:08 CST 2015
+default-http\://repo1.maven.org/maven2/.lastUpdated=1417156462181
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.mybatis\:mybatis\:pom\:3.2.2 from/to central (http\://repo1.maven.org/maven2)\: null to http\://repo1.maven.org/maven2/org/mybatis/mybatis/3.2.2/mybatis-3.2.2.pom
+https\://repo.maven.apache.org/maven2/.lastUpdated=1449038288300

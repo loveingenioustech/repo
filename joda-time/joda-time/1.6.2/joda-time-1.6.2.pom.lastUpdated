@@ -1,9 +1,5 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Tue Apr 02 17:35:55 CST 2013
-http\://repo.maven.apache.org/maven2/.lastUpdated=1364895355983
-https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1364895353909
-http\://repository.codehaus.org/.lastUpdated=1364895354554
-https\://maven.alfresco.com/nexus/content/groups/public/.error=
-http\://repository.codehaus.org/.error=
-http\://repository.muleforge.org/release/.error=
-http\://repository.muleforge.org/release/.lastUpdated=1364895355190
+#Thu Nov 20 11:08:20 CST 2014
+http\://repo1.maven.org/maven2/.lastUpdated=1416452900119
+http\://maven.springframework.org/milestone/.lastUpdated=1416452897917
+http\://maven.springframework.org/milestone/.error=

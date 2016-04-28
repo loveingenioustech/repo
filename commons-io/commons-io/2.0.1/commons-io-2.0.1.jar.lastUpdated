@@ -1,13 +1,5 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Mon Apr 15 08:25:33 CST 2013
-https\://maven.alfresco.com/nexus/content/repositories/activiti-thirdparty/.error=
-https\://maven.alfresco.com/nexus/content/repositories/activiti/.error=
-http\://maven.vaadin.com/vaadin-addons/.error=
-https\://maven.alfresco.com/nexus/content/repositories/activiti/.lastUpdated=1365985522596
-http\://repo.maven.apache.org/maven2/.lastUpdated=1365985533054
-http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1365985524689
-http\://maven.vaadin.com/vaadin-addons/.lastUpdated=1365985526150
-http\://maven.restlet.org/.error=
-http\://maven.restlet.org/.lastUpdated=1365985525522
-https\://maven.alfresco.com/nexus/content/repositories/activiti-thirdparty/.lastUpdated=1365985523855
-http\://repository.jboss.org/nexus/content/groups/public/.error=
+#Tue Nov 04 11:21:33 CST 2014
+http\://repo.spring.io/milestone/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1415071293323
+http\://repo.spring.io/milestone/.lastUpdated=1415071283671

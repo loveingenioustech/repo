@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Dec 11 15:07:15 CST 2014
+http\://maven.restlet.org/.error=Could not transfer artifact com.barchart.base\:barchart-archon\:pom\:2.5.10 from/to maven-restlet (http\://maven.restlet.org)\: Failed to transfer http\://maven.restlet.org/com/barchart/base/barchart-archon/2.5.10/barchart-archon-2.5.10.pom. Error code 307, Temporary Redirect
+http\://repo1.maven.org/maven2/.lastUpdated=1418281635651
+default-http\://maven.restlet.org/.lastUpdated=1418281620851

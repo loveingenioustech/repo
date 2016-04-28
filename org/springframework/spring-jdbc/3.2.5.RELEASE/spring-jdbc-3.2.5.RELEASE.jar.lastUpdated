@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Nov 03 15:14:02 CST 2015
+default-http\://repo1.maven.org/maven2/.lastUpdated=1446534842695
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.springframework\:spring-jdbc\:jar\:3.2.5.RELEASE from/to central (http\://repo1.maven.org/maven2)\: No response received after 60000

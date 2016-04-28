@@ -1,13 +1,9 @@
-#NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Sun Mar 31 11:00:38 CST 2013
-http\://extensions.springframework.org/milestone/.lastUpdated=1364698835441
-https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1364698834764
-http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
-http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1364698836631
-http\://repo.maven.apache.org/maven2/.lastUpdated=1364698838252
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Oct 28 08:57:47 CST 2015
+@default-Codehaus-http\://repository.codehaus.org/.lastUpdated=1445993866791
+@default-kafeitu-http\://maven.kafeitu.me/nexus/content/groups/public/.lastUpdated=1445993865504
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1445993866768
+https\://repo.maven.apache.org/maven2/.lastUpdated=1445993867419
+http\://maven.kafeitu.me/nexus/content/groups/public/.error=Could not transfer artifact org.codehaus.woodstox\:woodstox-core-asl\:pom\:4.1.1 from/to kafeitu (http\://maven.kafeitu.me/nexus/content/groups/public)\: connect timed out
 https\://maven.alfresco.com/nexus/content/groups/public/.error=
-http\://extensions.springframework.org/milestone/.error=
-http\://maven.itextpdf.com/.lastUpdated=1364698837401
-http\://maven.itextpdf.com/.error=
-http\://maven.restlet.org/.error=
-http\://maven.restlet.org/.lastUpdated=1364698836097
+http\://repository.codehaus.org/.error=Could not transfer artifact org.codehaus.woodstox\:woodstox-core-asl\:pom\:4.1.1 from/to Codehaus (http\://repository.codehaus.org)\: repository.codehaus.org

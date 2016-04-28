@@ -1,13 +1,4 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Mon Apr 15 08:18:23 CST 2013
-https\://maven.alfresco.com/nexus/content/repositories/activiti-thirdparty/.error=
-https\://maven.alfresco.com/nexus/content/repositories/activiti/.error=
-https\://maven.alfresco.com/nexus/content/repositories/activiti/.lastUpdated=1365985098218
-http\://maven.vaadin.com/vaadin-addons/.error=
-http\://repo.maven.apache.org/maven2/.lastUpdated=1365985103360
-http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1365985100428
-http\://maven.vaadin.com/vaadin-addons/.lastUpdated=1365985102098
-http\://maven.restlet.org/.error=
-http\://maven.restlet.org/.lastUpdated=1365985101262
-https\://maven.alfresco.com/nexus/content/repositories/activiti-thirdparty/.lastUpdated=1365985099599
-http\://repository.jboss.org/nexus/content/groups/public/.error=
+#Fri Nov 28 14:34:22 CST 2014
+default-http\://repo1.maven.org/maven2/.lastUpdated=1417156462203
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact mysql\:mysql-connector-java\:pom\:5.1.21 from/to central (http\://repo1.maven.org/maven2)\: null to http\://repo1.maven.org/maven2/mysql/mysql-connector-java/5.1.21/mysql-connector-java-5.1.21.pom

@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Mar 31 15:48:14 CST 2015
+default-http\://repo1.maven.org/maven2/.lastUpdated=1427788094967
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-enforcer-plugin\:pom\:${maven.enforcer.plugin} from/to central (http\://repo1.maven.org/maven2)\: IllegalArgumentException

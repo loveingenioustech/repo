@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Mar 31 14:41:32 CST 2015
+org.eclipse.persistence.core-2.5.0-SNAPSHOT.jar>eclipselink=
+org.eclipse.persistence.core-2.5.0-SNAPSHOT.pom>eclipselink=

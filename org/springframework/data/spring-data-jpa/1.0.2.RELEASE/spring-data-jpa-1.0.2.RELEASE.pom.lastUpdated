@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Nov 20 11:09:10 CST 2014
+default-http\://repo1.maven.org/maven2/.lastUpdated=1416452950481
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.springframework.data\:spring-data-jpa\:pom\:1.0.2.RELEASE from/to central (http\://repo1.maven.org/maven2)\: null to http\://repo1.maven.org/maven2/org/springframework/data/spring-data-jpa/1.0.2.RELEASE/spring-data-jpa-1.0.2.RELEASE.pom
+http\://maven.springframework.org/milestone/.lastUpdated=1416452950469
+http\://maven.springframework.org/milestone/.error=

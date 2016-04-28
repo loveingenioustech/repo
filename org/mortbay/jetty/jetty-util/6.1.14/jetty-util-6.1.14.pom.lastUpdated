@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Dec 11 15:06:17 CST 2014
+http\://maven.restlet.org/.error=Could not transfer artifact org.mortbay.jetty\:jetty-util\:pom\:6.1.14 from/to maven-restlet (http\://maven.restlet.org)\: Failed to transfer http\://maven.restlet.org/org/mortbay/jetty/jetty-util/6.1.14/jetty-util-6.1.14.pom. Error code 307, Temporary Redirect
+http\://repo1.maven.org/maven2/.lastUpdated=1418281577801
+default-http\://maven.restlet.org/.lastUpdated=1418281576316

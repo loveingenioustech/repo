@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Oct 28 09:00:31 CST 2015
+@default-kafeitu-http\://maven.kafeitu.me/nexus/content/groups/public/.lastUpdated=1445994029576
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1445994031687
+http\://maven.kafeitu.me/nexus/content/groups/public/.error=Could not transfer artifact org.springframework\:spring-tx\:pom\:3.2.10.RELEASE from/to kafeitu (http\://maven.kafeitu.me/nexus/content/groups/public)\: connect timed out

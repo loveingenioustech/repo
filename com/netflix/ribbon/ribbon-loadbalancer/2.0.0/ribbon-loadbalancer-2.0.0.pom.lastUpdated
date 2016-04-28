@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Nov 19 14:06:06 CST 2015
+http\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact com.netflix.ribbon\:ribbon-loadbalancer\:pom\:2.0.0 from/to spring-snapshots (http\://repo.spring.io/libs-snapshot-local)\: Failed to transfer http\://repo.spring.io/libs-snapshot-local/com/netflix/ribbon/ribbon-loadbalancer/2.0.0/ribbon-loadbalancer-2.0.0.pom. Error code 409, Conflict
+@default-spring-snapshots-http\://repo.spring.io/libs-snapshot-local/.lastUpdated=1447913165434
+https\://repo.spring.io/libs-snapshot/.lastUpdated=1447913166289

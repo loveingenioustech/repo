@@ -1,13 +1,9 @@
-#NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Sun Mar 31 10:52:20 CST 2013
-http\://extensions.springframework.org/milestone/.lastUpdated=1364698338310
-https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1364698337683
-http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
-http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1364698339456
-http\://repo.maven.apache.org/maven2/.lastUpdated=1364698340976
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Oct 28 08:48:53 CST 2015
+@default-Codehaus-http\://repository.codehaus.org/.lastUpdated=1445993332679
+@default-kafeitu-http\://maven.kafeitu.me/nexus/content/groups/public/.lastUpdated=1445993331467
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1445993332659
+https\://repo.maven.apache.org/maven2/.lastUpdated=1445993333296
+http\://maven.kafeitu.me/nexus/content/groups/public/.error=Could not transfer artifact com.sun.xml.bind\:jaxb-impl\:pom\:2.1.13 from/to kafeitu (http\://maven.kafeitu.me/nexus/content/groups/public)\: connect timed out
 https\://maven.alfresco.com/nexus/content/groups/public/.error=
-http\://extensions.springframework.org/milestone/.error=
-http\://maven.itextpdf.com/.lastUpdated=1364698340233
-http\://maven.itextpdf.com/.error=
-http\://maven.restlet.org/.error=
-http\://maven.restlet.org/.lastUpdated=1364698338929
+http\://repository.codehaus.org/.error=Could not transfer artifact com.sun.xml.bind\:jaxb-impl\:pom\:2.1.13 from/to Codehaus (http\://repository.codehaus.org)\: repository.codehaus.org

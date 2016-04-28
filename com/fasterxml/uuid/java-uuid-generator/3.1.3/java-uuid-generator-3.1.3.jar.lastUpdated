@@ -1,7 +1,9 @@
-#NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Mon Apr 15 08:19:57 CST 2013
-https\://maven.alfresco.com/nexus/content/repositories/activiti/.error=
-https\://maven.alfresco.com/nexus/content/repositories/activiti/.lastUpdated=1365985180867
-https\://maven.alfresco.com/nexus/content/repositories/activiti-thirdparty/.lastUpdated=1365985185263
-https\://maven.alfresco.com/nexus/content/repositories/activiti-thirdparty/.error=
-http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1365985197578
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Oct 28 09:40:37 CST 2015
+@default-Codehaus-http\://repository.codehaus.org/.lastUpdated=1445995746015
+@default-kafeitu-http\://maven.kafeitu.me/nexus/content/groups/public/.lastUpdated=1445995548002
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1445995745780
+https\://repo.maven.apache.org/maven2/.lastUpdated=1445996437373
+http\://maven.kafeitu.me/nexus/content/groups/public/.error=Could not transfer artifact com.fasterxml.uuid\:java-uuid-generator\:jar\:3.1.3 from/to kafeitu (http\://maven.kafeitu.me/nexus/content/groups/public)\: connect timed out
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+http\://repository.codehaus.org/.error=Could not transfer artifact com.fasterxml.uuid\:java-uuid-generator\:jar\:3.1.3 from/to Codehaus (http\://repository.codehaus.org)\: repository.codehaus.org

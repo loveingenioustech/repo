@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Dec 11 15:46:40 CST 2014
+http\://maven.restlet.org/.error=Could not transfer artifact com.jayway.restassured.examples\:scalatra-webapp\:pom\:2.4.1-SNAPSHOT from/to maven-restlet (http\://maven.restlet.org)\: Failed to transfer http\://maven.restlet.org/com/jayway/restassured/examples/scalatra-webapp/2.4.1-SNAPSHOT/scalatra-webapp-2.4.1-SNAPSHOT.pom. Error code 307, Temporary Redirect
+default-http\://maven.restlet.org/.lastUpdated=1418283998761
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1418284000854
+https\://oss.sonatype.org/content/repositories/snapshots/.error=

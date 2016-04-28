@@ -1,5 +1,11 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Mon Jul 08 16:48:57 CST 2013
-http\://repo.maven.apache.org/maven2/.lastUpdated=1373273337124
-legacy-http\://download.java.net/maven/2/.lastUpdated=1373273335990
-http\://download.java.net/maven/2/.error=Could not transfer artifact commons-io\:commons-io\:jar\:1.3.2 from/to java.net (http\://download.java.net/maven/2)\: No connector available to access repository java.net (http\://download.java.net/maven/2) of type legacy using the available factories WagonRepositoryConnectorFactory
+#Fri Oct 24 14:53:59 CST 2014
+http\://repository.jboss.com/maven2/.lastUpdated=1414133537275
+http\://maven.springframework.org/snapshot/.error=
+http\://repository.springsource.com/maven/bundles/release/.error=
+http\://repository.jboss.com/maven2/.error=
+http\://repository.springsource.com/maven/bundles/external/.error=
+http\://maven.springframework.org/snapshot/.lastUpdated=1414133532704
+http\://repo1.maven.org/maven2/.lastUpdated=1414133639300
+http\://repository.springsource.com/maven/bundles/external/.lastUpdated=1414133624634
+http\://repository.springsource.com/maven/bundles/release/.lastUpdated=1414133551455

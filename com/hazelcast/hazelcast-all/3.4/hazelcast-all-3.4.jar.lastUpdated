@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Jan 19 15:46:37 CST 2015
+default-http\://repo1.maven.org/maven2/.lastUpdated=1421653597714
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact com.hazelcast\:hazelcast-all\:jar\:3.4 from/to central (http\://repo1.maven.org/maven2)\: No response received after 60000

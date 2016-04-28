@@ -1,13 +1,5 @@
-#NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Sun Mar 31 11:00:03 CST 2013
-http\://extensions.springframework.org/milestone/.lastUpdated=1364698800790
-https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1364698800135
-http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
-http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1364698801960
-http\://repo.maven.apache.org/maven2/.lastUpdated=1364698803295
-https\://maven.alfresco.com/nexus/content/groups/public/.error=
-http\://extensions.springframework.org/milestone/.error=
-http\://maven.itextpdf.com/.lastUpdated=1364698802732
-http\://maven.itextpdf.com/.error=
-http\://maven.restlet.org/.error=
-http\://maven.restlet.org/.lastUpdated=1364698801445
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Feb 01 15:12:13 CST 2016
+http\://repo2.maven.org/maven2/.lastUpdated=1454310733208
+http\://download.java.net/maven/2/.lastUpdated=1454310732521
+http\://download.java.net/maven/2/.error=

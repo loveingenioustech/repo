@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Feb 01 15:14:29 CST 2016
+default-http\://repo1.maven.org/maven2/.lastUpdated=1416452949743
+http\://repo2.maven.org/maven2/.lastUpdated=1454310869364
+http\://download.java.net/maven/2/.lastUpdated=1454310868576
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact mysql\:mysql-connector-java\:pom\:5.1.16 from/to central (http\://repo1.maven.org/maven2)\: null to http\://repo1.maven.org/maven2/mysql/mysql-connector-java/5.1.16/mysql-connector-java-5.1.16.pom
+http\://maven.springframework.org/milestone/.lastUpdated=1416452949736
+http\://maven.springframework.org/milestone/.error=
+http\://download.java.net/maven/2/.error=

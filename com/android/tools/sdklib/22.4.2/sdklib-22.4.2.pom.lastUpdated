@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Jan 14 17:06:19 CST 2015
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact com.android.tools\:sdklib\:pom\:22.4.2 from/to central (http\://repo1.maven.org/maven2)\: No response received after 60000
+da39a3ee5e6b4b0d3255bfef95601890afd80709@183.207.228.9\:80>default-http\://repo1.maven.org/maven2/.lastUpdated=1421226379817

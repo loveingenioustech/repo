@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Jan 22 16:04:53 CST 2015
+default-http\://repo1.maven.org/maven2/.lastUpdated=1421913893488
+http\://repository.jboss.org/maven2/.lastUpdated=1421913758262
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.jboss.resteasy\:resteasy-jaxrs\:jar\:3.0.2.Final from/to central (http\://repo1.maven.org/maven2)\: No response received after 60000
+http\://repository.jboss.org/maven2/.error=

@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Dec 11 15:08:33 CST 2014
+http\://maven.restlet.org/.error=Could not transfer artifact org.apache\:apache\:pom\:6 from/to maven-restlet (http\://maven.restlet.org)\: Failed to transfer http\://maven.restlet.org/org/apache/apache/6/apache-6.pom. Error code 307, Temporary Redirect
+http\://repo1.maven.org/maven2/.lastUpdated=1418281713706
+default-http\://maven.restlet.org/.lastUpdated=1418281712864

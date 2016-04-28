@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Nov 19 14:04:48 CST 2015
+http\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact org.springframework.cloud\:spring-cloud-starter\:pom\:1.0.2.RELEASE from/to spring-snapshots (http\://repo.spring.io/libs-snapshot-local)\: Failed to transfer http\://repo.spring.io/libs-snapshot-local/org/springframework/cloud/spring-cloud-starter/1.0.2.RELEASE/spring-cloud-starter-1.0.2.RELEASE.pom. Error code 409, Conflict
+@default-spring-snapshots-http\://repo.spring.io/libs-snapshot-local/.lastUpdated=1447913088104
+https\://repo.spring.io/libs-snapshot/.lastUpdated=1447913088876

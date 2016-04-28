@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Nov 19 14:03:45 CST 2015
+http\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact pl.project13.maven\:git-commit-id-plugin\:pom\:2.1.11 from/to spring-snapshots (http\://repo.spring.io/libs-snapshot-local)\: Failed to transfer http\://repo.spring.io/libs-snapshot-local/pl/project13/maven/git-commit-id-plugin/2.1.11/git-commit-id-plugin-2.1.11.pom. Error code 409, Conflict
+@default-spring-snapshots-http\://repo.spring.io/libs-snapshot-local/.lastUpdated=1447912754192
+http\://repo.spring.io/libs-milestone-local/.error=
+http\://repo.spring.io/libs-milestone-local/.lastUpdated=1447912754954
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1447913025950
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact pl.project13.maven\:git-commit-id-plugin\:pom\:2.1.11 from/to central (https\://repo.maven.apache.org/maven2)\: Software caused connection abort\: recv failed

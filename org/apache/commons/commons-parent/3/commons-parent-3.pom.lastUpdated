@@ -1,5 +1,11 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Mon Jul 08 16:48:50 CST 2013
-http\://repo.maven.apache.org/maven2/.lastUpdated=1373273330919
-legacy-http\://download.java.net/maven/2/.lastUpdated=1373273330193
-http\://download.java.net/maven/2/.error=Could not transfer artifact org.apache.commons\:commons-parent\:pom\:3 from/to java.net (http\://download.java.net/maven/2)\: No connector available to access repository java.net (http\://download.java.net/maven/2) of type legacy using the available factories WagonRepositoryConnectorFactory
+#Fri Oct 24 14:49:57 CST 2014
+http\://repository.jboss.com/maven2/.lastUpdated=1414133395255
+http\://maven.springframework.org/snapshot/.error=
+http\://repository.springsource.com/maven/bundles/release/.error=
+http\://repository.jboss.com/maven2/.error=
+http\://repository.springsource.com/maven/bundles/external/.error=
+http\://maven.springframework.org/snapshot/.lastUpdated=1414133394652
+http\://repo1.maven.org/maven2/.lastUpdated=1414133397336
+http\://repository.springsource.com/maven/bundles/external/.lastUpdated=1414133396596
+http\://repository.springsource.com/maven/bundles/release/.lastUpdated=1414133395896

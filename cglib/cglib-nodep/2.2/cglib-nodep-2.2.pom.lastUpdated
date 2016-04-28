@@ -1,13 +1,5 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Sun Mar 31 11:10:36 CST 2013
-http\://extensions.springframework.org/milestone/.lastUpdated=1364699434200
-https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1364699433668
-http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
-http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1364699435347
-http\://repo.maven.apache.org/maven2/.lastUpdated=1364699436964
-https\://maven.alfresco.com/nexus/content/groups/public/.error=
-http\://extensions.springframework.org/milestone/.error=
-http\://maven.itextpdf.com/.lastUpdated=1364699436128
-http\://maven.itextpdf.com/.error=
-http\://maven.restlet.org/.error=
-http\://maven.restlet.org/.lastUpdated=1364699434829
+#Thu Nov 20 11:08:15 CST 2014
+http\://repo1.maven.org/maven2/.lastUpdated=1416452895605
+http\://maven.springframework.org/milestone/.lastUpdated=1416452890535
+http\://maven.springframework.org/milestone/.error=

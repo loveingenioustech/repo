@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Mar 12 17:53:44 CST 2015
+default-http\://repo1.maven.org/maven2/.lastUpdated=1426154024701
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact gov.nih.imagej\:imagej\:jar\:1.47 from/to central (http\://repo1.maven.org/maven2)\: No response received after 60000

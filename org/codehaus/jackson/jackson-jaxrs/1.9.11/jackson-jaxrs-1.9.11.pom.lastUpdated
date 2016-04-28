@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Dec 11 15:06:24 CST 2014
+http\://maven.restlet.org/.error=Could not transfer artifact org.codehaus.jackson\:jackson-jaxrs\:pom\:1.9.11 from/to maven-restlet (http\://maven.restlet.org)\: Failed to transfer http\://maven.restlet.org/org/codehaus/jackson/jackson-jaxrs/1.9.11/jackson-jaxrs-1.9.11.pom. Error code 307, Temporary Redirect
+http\://repo1.maven.org/maven2/.lastUpdated=1418281584751
+default-http\://maven.restlet.org/.lastUpdated=1418281583238

@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Oct 28 09:08:36 CST 2015
+http\://repo1.maven.org/maven2/.error=
+http\://maven.alfresco.com/nexus/content/repositories/activiti/.error=Could not transfer artifact org.activiti\:activiti-spring\:pom\:5.11 from/to Activiti (http\://maven.alfresco.com/nexus/content/repositories/activiti)\: Could not generate DH keypair
+default-http\://maven.alfresco.com/nexus/content/repositories/activiti/.lastUpdated=1445994515414
+http\://repo1.maven.org/maven2/.lastUpdated=1445994516128

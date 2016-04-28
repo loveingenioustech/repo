@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Nov 19 14:23:29 CST 2015
+http\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-test\:jar\:1.2.3.RELEASE from/to spring-snapshots (http\://repo.spring.io/libs-snapshot-local)\: Failed to transfer http\://repo.spring.io/libs-snapshot-local/org/springframework/boot/spring-boot-starter-test/1.2.3.RELEASE/spring-boot-starter-test-1.2.3.RELEASE.jar. Error code 409, Conflict
+@default-spring-snapshots-http\://repo.spring.io/libs-snapshot-local/.lastUpdated=1447913283828
+https\://repo.spring.io/libs-snapshot/.lastUpdated=1447914209063

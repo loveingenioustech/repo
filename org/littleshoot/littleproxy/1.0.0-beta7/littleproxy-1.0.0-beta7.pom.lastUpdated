@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Dec 11 15:06:40 CST 2014
+http\://maven.restlet.org/.error=Could not transfer artifact org.littleshoot\:littleproxy\:pom\:1.0.0-beta7 from/to maven-restlet (http\://maven.restlet.org)\: Failed to transfer http\://maven.restlet.org/org/littleshoot/littleproxy/1.0.0-beta7/littleproxy-1.0.0-beta7.pom. Error code 307, Temporary Redirect
+http\://repo1.maven.org/maven2/.lastUpdated=1418281600937
+default-http\://maven.restlet.org/.lastUpdated=1418281599121

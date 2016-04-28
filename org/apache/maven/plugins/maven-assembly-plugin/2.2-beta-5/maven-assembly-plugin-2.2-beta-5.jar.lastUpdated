@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Dec 11 15:57:39 CST 2014
+default-http\://repo1.maven.org/maven2/.lastUpdated=1418283847500
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-assembly-plugin\:jar\:2.2-beta-5 from/to central (http\://repo1.maven.org/maven2)\: No response received after 60000
+https\://repo.maven.apache.org/maven2/.lastUpdated=1418284659792

@@ -1,6 +1,4 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Mon Jul 08 18:14:50 CST 2013
-junit-4.10.pom>jboss-public-repository-group=
+#Thu Oct 23 16:45:57 CST 2014
+junit-4.10.jar>central=
 junit-4.10.pom>central=
-junit-4.10.jar>=
-junit-4.10.jar>jboss-public-repository-group=

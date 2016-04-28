@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Nov 20 11:09:11 CST 2014
+default-http\://repo1.maven.org/maven2/.lastUpdated=1416452951205
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact com.mysema.querydsl\:querydsl-core\:pom\:2.2.5 from/to central (http\://repo1.maven.org/maven2)\: null to http\://repo1.maven.org/maven2/com/mysema/querydsl/querydsl-core/2.2.5/querydsl-core-2.2.5.pom
+http\://maven.springframework.org/milestone/.lastUpdated=1416452951194
+http\://maven.springframework.org/milestone/.error=

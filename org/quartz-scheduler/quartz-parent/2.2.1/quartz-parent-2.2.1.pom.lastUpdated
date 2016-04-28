@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Jan 13 13:51:37 CST 2015
+default-http\://repo1.maven.org/maven2/.lastUpdated=1421128270374
+http\://www.terracotta.org/download/reflector/snapshots/.error=
+http\://www.terracotta.org/download/reflector/releases/.lastUpdated=1421128297427
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.quartz-scheduler\:quartz-parent\:pom\:2.2.1 from/to central (http\://repo1.maven.org/maven2)\: No response received after 60000
+http\://www.terracotta.org/download/reflector/snapshots/.lastUpdated=1421128277621

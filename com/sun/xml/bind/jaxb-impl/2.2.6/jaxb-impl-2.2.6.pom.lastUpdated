@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Oct 28 10:15:54 CST 2015
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1445998553826
+@default-http\://maven.kafeitu.me/nexus/content/groups/public/.lastUpdated=1445998552810
+https\://repo.maven.apache.org/maven2/.lastUpdated=1445998554446
+http\://maven.kafeitu.me/nexus/content/groups/public/.error=Could not transfer artifact com.sun.xml.bind\:jaxb-impl\:pom\:2.2.6 from/to kafeitu (http\://maven.kafeitu.me/nexus/content/groups/public)\: Connect to maven.kafeitu.me\:80 [maven.kafeitu.me/101.228.162.251] failed\: Connection timed out\: connect
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+@default-http\://repository.codehaus.org/.lastUpdated=1445998553854
+http\://repository.codehaus.org/.error=Could not transfer artifact com.sun.xml.bind\:jaxb-impl\:pom\:2.2.6 from/to Codehaus (http\://repository.codehaus.org)\: repository.codehaus.org

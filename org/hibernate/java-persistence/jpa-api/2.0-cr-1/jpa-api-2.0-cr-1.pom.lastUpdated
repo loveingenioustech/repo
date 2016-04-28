@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Nov 20 11:09:08 CST 2014
+default-http\://repo1.maven.org/maven2/.lastUpdated=1416452948178
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.hibernate.java-persistence\:jpa-api\:pom\:2.0-cr-1 from/to central (http\://repo1.maven.org/maven2)\: null to http\://repo1.maven.org/maven2/org/hibernate/java-persistence/jpa-api/2.0-cr-1/jpa-api-2.0-cr-1.pom
+http\://maven.springframework.org/milestone/.lastUpdated=1416452948170
+http\://maven.springframework.org/milestone/.error=

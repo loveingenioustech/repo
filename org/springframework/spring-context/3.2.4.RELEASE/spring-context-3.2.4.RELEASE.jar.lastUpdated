@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Jul 29 09:33:40 CST 2015
+default-http\://repo1.maven.org/maven2/.lastUpdated=1427783807529
+http\://download.eclipse.org/rt/eclipselink/maven.repo/.lastUpdated=1427784092138
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.springframework\:spring-context\:jar\:3.2.4.RELEASE from/to central (http\://repo1.maven.org/maven2)\: No response received after 60000
+https\://repo.maven.apache.org/maven2/.lastUpdated=1438133620254
+http\://download.eclipse.org/rt/eclipselink/maven.repo/.error=

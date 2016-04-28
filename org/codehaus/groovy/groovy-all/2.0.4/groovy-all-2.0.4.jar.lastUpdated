@@ -1,5 +1,5 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Mon Apr 01 10:13:29 CST 2013
-http\://repo.maven.apache.org/maven2/.lastUpdated=1364782409090
-http\://maven.alfresco.com/nexus/content/repositories/activiti/.lastUpdated=1364782360721
-http\://maven.alfresco.com/nexus/content/repositories/activiti/.error=
+#Wed Oct 28 09:13:47 CST 2015
+http\://maven.alfresco.com/nexus/content/repositories/activiti/.error=Could not transfer artifact org.codehaus.groovy\:groovy-all\:jar\:2.0.4 from/to Activiti (http\://maven.alfresco.com/nexus/content/repositories/activiti)\: Could not generate DH keypair
+default-http\://maven.alfresco.com/nexus/content/repositories/activiti/.lastUpdated=1445994821456
+http\://repo1.maven.org/maven2/.lastUpdated=1445994827313

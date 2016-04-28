@@ -1,5 +1,5 @@
-#NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Sun Jul 21 11:56:46 CST 2013
-http\://repo.maven.apache.org/maven2/.lastUpdated=1374379006958
-http\://maven.alfresco.com/nexus/content/repositories/activiti/.lastUpdated=1374379006222
-http\://maven.alfresco.com/nexus/content/repositories/activiti/.error=
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Oct 28 15:53:56 CST 2015
+http\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1446018833923
+https\://repo.maven.apache.org/maven2/.lastUpdated=1446018836681
+http\://maven.alfresco.com/nexus/content/groups/public/.error=

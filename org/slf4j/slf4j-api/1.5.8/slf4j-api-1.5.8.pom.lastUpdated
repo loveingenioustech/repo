@@ -1,13 +1,11 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Sun Mar 31 10:55:40 CST 2013
-http\://extensions.springframework.org/milestone/.lastUpdated=1364698537945
-https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1364698537389
-http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
-http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1364698539086
-http\://repo.maven.apache.org/maven2/.lastUpdated=1364698540647
-https\://maven.alfresco.com/nexus/content/groups/public/.error=
-http\://extensions.springframework.org/milestone/.error=
-http\://maven.itextpdf.com/.lastUpdated=1364698539877
-http\://maven.itextpdf.com/.error=
-http\://maven.restlet.org/.error=
-http\://maven.restlet.org/.lastUpdated=1364698538566
+#Fri Oct 24 14:50:35 CST 2014
+http\://repository.jboss.com/maven2/.lastUpdated=1414133433844
+http\://maven.springframework.org/snapshot/.error=
+http\://repository.springsource.com/maven/bundles/release/.error=
+http\://repository.jboss.com/maven2/.error=
+http\://repository.springsource.com/maven/bundles/external/.error=
+http\://maven.springframework.org/snapshot/.lastUpdated=1414133433435
+http\://repo1.maven.org/maven2/.lastUpdated=1414133435488
+http\://repository.springsource.com/maven/bundles/external/.lastUpdated=1414133434856
+http\://repository.springsource.com/maven/bundles/release/.lastUpdated=1414133434340

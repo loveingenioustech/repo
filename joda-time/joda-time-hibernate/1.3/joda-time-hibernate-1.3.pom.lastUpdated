@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Nov 20 11:08:41 CST 2014
+default-http\://repo1.maven.org/maven2/.lastUpdated=1416452921891
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact joda-time\:joda-time-hibernate\:pom\:1.3 from/to central (http\://repo1.maven.org/maven2)\: null to http\://repo1.maven.org/maven2/joda-time/joda-time-hibernate/1.3/joda-time-hibernate-1.3.pom
+http\://maven.springframework.org/milestone/.lastUpdated=1416452908002
+http\://maven.springframework.org/milestone/.error=

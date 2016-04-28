@@ -1,13 +1,9 @@
-#NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Sun Mar 31 11:14:04 CST 2013
-http\://extensions.springframework.org/milestone/.lastUpdated=1364699518729
-https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1364699506302
-http\://repository.jboss.org/nexus/content/groups/public-jboss/.error=
-http\://repository.jboss.org/nexus/content/groups/public-jboss/.lastUpdated=1364699551363
-http\://repo.maven.apache.org/maven2/.lastUpdated=1364699644271
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Oct 28 09:40:33 CST 2015
+@default-Codehaus-http\://repository.codehaus.org/.lastUpdated=1445995746003
+@default-kafeitu-http\://maven.kafeitu.me/nexus/content/groups/public/.lastUpdated=1445995547970
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1445995744912
+https\://repo.maven.apache.org/maven2/.lastUpdated=1445996433049
+http\://maven.kafeitu.me/nexus/content/groups/public/.error=Could not transfer artifact xml-apis\:xml-apis\:jar\:1.3.04 from/to kafeitu (http\://maven.kafeitu.me/nexus/content/groups/public)\: connect timed out
 https\://maven.alfresco.com/nexus/content/groups/public/.error=
-http\://extensions.springframework.org/milestone/.error=
-http\://maven.itextpdf.com/.lastUpdated=1364699572171
-http\://maven.itextpdf.com/.error=
-http\://maven.restlet.org/.error=
-http\://maven.restlet.org/.lastUpdated=1364699532825
+http\://repository.codehaus.org/.error=Could not transfer artifact xml-apis\:xml-apis\:jar\:1.3.04 from/to Codehaus (http\://repository.codehaus.org)\: repository.codehaus.org

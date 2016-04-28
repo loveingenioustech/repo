@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Dec 11 15:06:31 CST 2014
+http\://maven.restlet.org/.error=Could not transfer artifact com.fasterxml.jackson.core\:jackson-databind\:pom\:2.4.3 from/to maven-restlet (http\://maven.restlet.org)\: Failed to transfer http\://maven.restlet.org/com/fasterxml/jackson/core/jackson-databind/2.4.3/jackson-databind-2.4.3.pom. Error code 307, Temporary Redirect
+http\://repo1.maven.org/maven2/.lastUpdated=1418281591397
+default-http\://maven.restlet.org/.lastUpdated=1418281589284

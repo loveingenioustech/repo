@@ -1,5 +1,9 @@
-#NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Wed Apr 03 18:50:57 CST 2013
-http\://repo.maven.apache.org/maven2/.lastUpdated=1364986257821
-http\://repository.jboss.org/nexus/content/groups/public/.error=
-http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1364986256560
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Oct 28 08:41:27 CST 2015
+@default-Codehaus-http\://repository.codehaus.org/.lastUpdated=1445992887077
+@default-kafeitu-http\://maven.kafeitu.me/nexus/content/groups/public/.lastUpdated=1445992886012
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1445992887054
+https\://repo.maven.apache.org/maven2/.lastUpdated=1445992887724
+http\://maven.kafeitu.me/nexus/content/groups/public/.error=Could not transfer artifact org.apache.xmlgraphics\:batik-xml\:pom\:1.7 from/to kafeitu (http\://maven.kafeitu.me/nexus/content/groups/public)\: connect timed out
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+http\://repository.codehaus.org/.error=Could not transfer artifact org.apache.xmlgraphics\:batik-xml\:pom\:1.7 from/to Codehaus (http\://repository.codehaus.org)\: repository.codehaus.org

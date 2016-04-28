@@ -1,5 +1,4 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Mon Apr 15 08:25:47 CST 2013
-knowledge-internal-api-5.4.0.Final.jar>=
-knowledge-internal-api-5.4.0.Final.pom>jboss=
-knowledge-internal-api-5.4.0.Final.jar>jboss=
+#Thu Oct 23 16:45:56 CST 2014
+knowledge-internal-api-5.4.0.Final.jar>central=
+knowledge-internal-api-5.4.0.Final.pom>central=

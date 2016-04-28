@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Nov 20 11:09:15 CST 2014
+default-http\://repo1.maven.org/maven2/.lastUpdated=1416452955525
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.mockito\:mockito-all\:pom\:1.8.5 from/to central (http\://repo1.maven.org/maven2)\: null to http\://repo1.maven.org/maven2/org/mockito/mockito-all/1.8.5/mockito-all-1.8.5.pom
+http\://maven.springframework.org/milestone/.lastUpdated=1416452955513
+http\://maven.springframework.org/milestone/.error=

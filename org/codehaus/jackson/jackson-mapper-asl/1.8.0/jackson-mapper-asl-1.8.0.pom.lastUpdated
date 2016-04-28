@@ -1,5 +1,6 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Tue Apr 02 17:49:51 CST 2013
-https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1364896189884
-http\://repository.codehaus.org/.lastUpdated=1364896191400
-https\://maven.alfresco.com/nexus/content/groups/public/.error=
+#Thu Nov 20 11:08:51 CST 2014
+default-http\://repo1.maven.org/maven2/.lastUpdated=1416452931704
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.codehaus.jackson\:jackson-mapper-asl\:pom\:1.8.0 from/to central (http\://repo1.maven.org/maven2)\: null to http\://repo1.maven.org/maven2/org/codehaus/jackson/jackson-mapper-asl/1.8.0/jackson-mapper-asl-1.8.0.pom
+http\://maven.springframework.org/milestone/.lastUpdated=1416452931689
+http\://maven.springframework.org/milestone/.error=

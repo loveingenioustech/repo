@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jan 21 15:26:56 CST 2016
+http\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact org.apache.commons\:commons-parent\:pom\:23 from/to spring-snapshots (http\://repo.spring.io/libs-snapshot-local)\: Failed to transfer http\://repo.spring.io/libs-snapshot-local/org/apache/commons/commons-parent/23/commons-parent-23.pom. Error code 409, Conflict
+@default-spring-snapshots-http\://repo.spring.io/libs-snapshot-local/.lastUpdated=1447913120589
+https\://repo.maven.apache.org/maven2/.lastUpdated=1453361216677
+https\://repo.spring.io/libs-snapshot/.lastUpdated=1447913122816

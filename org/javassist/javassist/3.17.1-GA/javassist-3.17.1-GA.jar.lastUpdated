@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Oct 27 16:33:42 CST 2015
+default-http\://repo1.maven.org/maven2/.lastUpdated=1421739860762
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.javassist\:javassist\:jar\:3.17.1-GA from/to central (http\://repo1.maven.org/maven2)\: No response received after 60000
+https\://repo.maven.apache.org/maven2/.lastUpdated=1445934822558

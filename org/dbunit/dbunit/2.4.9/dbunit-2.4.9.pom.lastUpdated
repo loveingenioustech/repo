@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Dec 11 11:22:03 CST 2014
+default-http\://repo1.maven.org/maven2/.lastUpdated=1418268123905
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.dbunit\:dbunit\:pom\:2.4.9 from/to central (http\://repo1.maven.org/maven2)\: No response received after 60000

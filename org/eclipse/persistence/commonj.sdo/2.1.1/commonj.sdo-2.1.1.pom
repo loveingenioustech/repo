@@ -6,7 +6,7 @@
   <version>2.1.1</version>
   <packaging>jar</packaging>
   <name>SDO API</name>
-  <description>EclipseLink build based upon Git transaction 9c3c264</description>
+  <description>EclipseLink subversion revision exported</description>
   <url>http://www.eclipse.org/eclipselink</url>
   <organization>
     <name>Eclipse.org - EclipseLink Project</name>
@@ -63,6 +63,3 @@
   </developers>
   
 </project>
-
-
-

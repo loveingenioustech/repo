@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Oct 28 08:53:45 CST 2015
+@default-Codehaus-http\://repository.codehaus.org/.lastUpdated=1445993624319
+@default-kafeitu-http\://maven.kafeitu.me/nexus/content/groups/public/.lastUpdated=1445993623075
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1445993624300
+https\://repo.maven.apache.org/maven2/.lastUpdated=1445993625589
+http\://maven.kafeitu.me/nexus/content/groups/public/.error=Could not transfer artifact org.eclipse.jetty\:jetty-project\:pom\:8.1.7.v20120910 from/to kafeitu (http\://maven.kafeitu.me/nexus/content/groups/public)\: connect timed out
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+http\://repository.codehaus.org/.error=Could not transfer artifact org.eclipse.jetty\:jetty-project\:pom\:8.1.7.v20120910 from/to Codehaus (http\://repository.codehaus.org)\: repository.codehaus.org

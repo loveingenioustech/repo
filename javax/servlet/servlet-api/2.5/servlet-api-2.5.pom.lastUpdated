@@ -1,0 +1,8 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Nov 20 11:17:12 CST 2014
+default-http\://maven.springframework.org/milestone/.lastUpdated=1416453427627
+http\://repository.jboss.com/maven2/.lastUpdated=1414133526495
+http\://repo1.maven.org/maven2/.lastUpdated=1416453432376
+http\://maven.springframework.org/snapshot/.lastUpdated=1414133525918
+http\://maven.springframework.org/snapshot/.error=
+http\://maven.springframework.org/milestone/.error=Could not transfer artifact javax.servlet\:servlet-api\:pom\:2.5 from/to org.springframework.maven.milestone (http\://maven.springframework.org/milestone)\: java.net.ConnectException\: null to http\://maven.springframework.org/milestone/javax/servlet/servlet-api/2.5/servlet-api-2.5.pom

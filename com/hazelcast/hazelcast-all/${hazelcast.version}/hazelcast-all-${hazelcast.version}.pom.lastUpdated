@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon Jan 19 15:41:56 CST 2015
+default-http\://repo1.maven.org/maven2/.lastUpdated=1421653316514
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact com.hazelcast\:hazelcast-all\:pom\:${hazelcast.version} from/to central (http\://repo1.maven.org/maven2)\: IllegalArgumentException
